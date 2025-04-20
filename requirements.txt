@@ -1,0 +1,13 @@
+flask
+pandas
+scikit-learn
+flask-login
+werkzeug
+gunicorn
+flask
+pandas
+scikit-learn
+flask-login
+werkzeug
+gunicorn==20.1.0
+
